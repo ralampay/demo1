@@ -1,3 +1,5 @@
 # License
 
-This is a sample license
+This is a sample license.
+
+Some additional change
